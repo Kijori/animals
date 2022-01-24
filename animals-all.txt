@@ -4,3 +4,10 @@ Cheetah
 Lion
 Tiger
 Elephant
+
+Jason's Animals:
+Dog 
+Pineapple 
+Cat
+Kangaroo
+JohnCrow 
