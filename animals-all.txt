@@ -4,6 +4,19 @@ Cheetah
 Lion
 Tiger
 Elephant
+
+=======
+
+Jason's Animals:
+Dog 
+Pineapple 
+Cat
+Kangaroo
+JohnCrow 
+
+==========
+Micheal's Animals:
 Snowy Owl
 Orca
-
+Sloth
+Lemur
