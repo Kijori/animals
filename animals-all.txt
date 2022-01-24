@@ -4,3 +4,6 @@ Cheetah
 Lion
 Tiger
 Elephant
+Snowy Owl
+Orca
+
