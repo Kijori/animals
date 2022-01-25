@@ -20,3 +20,12 @@ Snowy Owl
 Orca
 Sloth
 Lemur
+
+
+==========
+
+Kijori's Animals:
+Lion
+Bird
+Alligator
+Snake
